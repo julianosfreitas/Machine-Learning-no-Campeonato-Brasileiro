@@ -1,9 +1,5 @@
 # Machine-Learning-no-Campeonato-Brasileiro
 
-Aqui vai uma versão com emojis para dar um toque mais descontraído:
-
----
-
 ## ⚽ Sobre o Projeto
 
 Este notebook contém o código que desenvolvi para prever os resultados dos jogos do Campeonato Brasileiro. Além disso, inclui previsões de ações e churn de clientes, utilizando técnicas de Machine Learning. 🚀
@@ -19,3 +15,7 @@ Para construir este projeto, usei Python e as seguintes bibliotecas:
 ## 🔄 Pré-processamento dos Dados
 
 Os dados foram tratados e transformados para que os resultados fossem apresentados em um formato numérico, facilitando a aplicação dos modelos de Machine Learning. 🔢
+
+## 📂 Base de Dados
+
+A base original foi retirada do site: [football-data.co.uk](http://football-data.co.uk/).
